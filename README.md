@@ -27,8 +27,6 @@
 
 ---
 
----
-
 # 🚀 Projects
 
 ### 📊 IPL Data Analysis
@@ -38,20 +36,6 @@
 ✔ Exploratory Data Analysis
 
 ✔ Data Visualization
-
-✔ Insights using Pandas & Matplotlib
-
----
-
-# 📜 Certifications
-
-🏅 Python for Data Science
-
-🏅 SQL Basics
-
-🏅 Excel Basics
-
-🏅 IBM Generative AI Essentials
 
 ---
 
@@ -81,14 +65,12 @@
 
 ---
 
----
-
 # 🌐 Connect with Me
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src=
 </a>
 
 <a href="mailto:YOUR_EMAIL">
